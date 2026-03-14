@@ -25,4 +25,4 @@ This project demonstrates how to design a modern profile card with a profile ima
 ## Purpose
 
 This project was created for **Flutter UI practice** and to learn how to build simple user interface components using Flutter.
-
+![App Screenshot](https://github.com/MuhammadTahir18/-personal_profile_card_app-_Apexify-Technologies/blob/45da2a8d72411651649ab79cb94b437abd12e89a/card.png)
