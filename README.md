@@ -1,16 +1,28 @@
-# personal_profile_card_app
+# Personal Profile Card (Flutter)
 
-A new Flutter project.
+A simple and clean **Personal Profile Card UI** built using **Flutter and Dart**.
+This project demonstrates how to design a modern profile card with a profile image, name, profession, and contact information using Flutter widgets.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Modern **Profile Card UI**
+* Profile image using **CircleAvatar**
+* User **name and profession**
+* Contact information (Email, Phone, Location)
+* Clean **Material Design layout**
+* Responsive and simple UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+* Flutter
+* Dart
+* Material Design Widgets
+
+## Purpose
+
+This project was created for **Flutter UI practice** and to learn how to build simple user interface components using Flutter.
+
